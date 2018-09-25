@@ -1,4 +1,4 @@
-def test_add_three():
+def test_sum_three():
     from average3 import add_three
     s = add_three(1, 1, 10)
     assert s == 12
